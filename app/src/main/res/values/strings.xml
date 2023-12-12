@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidBasicsInKotlin</string>
+    <string name="workoutName">Name: %1$s</string>
+    <string name="workoutMuscleWorked">Primary muscle: %1$s</string>
+    <string name="workoutEquipment">Equipment: %1$s</string>
+    <string name="workoutForce">Force: %1$s</string>
+    <string name="workoutGrip">Grip: %1$s</string>
+</resources>
